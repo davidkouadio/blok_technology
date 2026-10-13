@@ -1,0 +1,53 @@
+organization_id,name,type,tax_regime,segment,salesman,city,created_at
+1001,Groupe Kanga BTP,client,rsi,Grand compte,S01,Bouaké,2024-10-15
+1002,Cabinet Aya Conseil,client,RSI,PME,S02,Abidjan,2025-05-05
+1003,Hôtel Lagune Bleue,client,rsi,PME,S03,Abidjan,2026-03-19
+1004,Clinique Les Palmiers,client,rsi,PME,S04,Abidjan,2025-10-22
+1005,ONG Terre Verte,client,tee,PME,S01,Abidjan,2024-03-03
+1006,Résidence Akwaba,client,rsi,Grand compte,S02,Abidjan,2024-06-09
+1007,Société Ivoire Logistique,client,rsi,TPE,S03,Abidjan,2026-01-31
+1008,Restaurant Le Baobab,client,rsi,PME,S04,Daloa,2024-11-13
+1009,École Internationale Bingerville,client,rsi,TPE,S01,Abidjan,2025-03-01
+1010,SCI Cocody Horizon,client,rsi,TPE,S02,Abidjan,2025-08-08
+1011,Transports Yao & Fils,client,rsi,TPE,S03,Abidjan,2024-05-31
+1012,Imprimerie Moderne d'Abidjan,client,rsi,PME,S04,Abidjan,2025-06-12
+1013,Agro-Transformation Sud,client,tee,Grand compte,S01,Abidjan,2025-12-21
+1014,Banque Régionale (agence Plateau),client,rsi,PME,S02,Abidjan,2024-03-26
+1015,Cantine Zone Industrielle Yopougon,client,rsi,PME,S03,Daloa,2025-05-07
+1016,Pharmacie Riviera 3,client,rsi,TPE,S04,Abidjan,2025-09-19
+1017,Chantier Pont Est (consortium),client,tee,Grand compte,S01,Abidjan,2024-06-28
+1018,Supermarché Marcory,client,rsi,TPE,S02,Abidjan,2025-11-05
+1019,Mairie annexe Treichville,client,RSI,PME,S03,Abidjan,2025-08-20
+1020,Usine Cacao Plus,client,tee,PME,S04,Abidjan,2025-05-05
+1021,Centre Médical Angré,client,rsi,TPE,S01,Abidjan,2025-08-08
+1022,Bureau d'études Tano,client,rsi,Grand compte,S02,San-Pédro,2026-04-24
+1023,Hôtel Ivoire Business,client,rsi,Grand compte,S03,Abidjan,2026-02-20
+1024,Coopérative Café-Cacao Daloa,client,rsi,PME,S04,Abidjan,2026-03-05
+1025,Projet ONU Habitat CI,client,tee,PME,S01,Abidjan,2025-06-25
+1026,Lycée Technique Abobo,client,rsi,TPE,S02,Abidjan,2024-07-03
+1027,Cabinet Avocats Koné,client,rsi,PME,S03,Abidjan,2025-06-24
+1028,Boulangerie La Mie d'Or,client,rsi,TPE,S04,Abidjan,2025-09-10
+1029,Société Minière Nord,client,tee,Grand compte,S01,Daloa,2026-01-15
+1030,Promoteur Immobilier Bassam,client,,PME,S02,Abidjan,2025-12-23
+1031,Station Service Adjamé,client,rsi,PME,S03,Abidjan,2025-04-16
+1032,Fondation Santé Pour Tous,client,tee,PME,S04,Abidjan,2024-12-27
+1033,Start-up Wave Delivery,client,rsi,Grand compte,S01,Abidjan,2024-08-01
+1034,Atelier Mécanique Koumassi,client,rsi,PME,S02,Abidjan,2025-06-13
+1035,Restaurant Chez Tantie,client,rsi,TPE,S03,Abidjan,2025-03-04
+1036,Entrepôt Port Autonome Lot 7,client,tee,TPE,S04,Yamoussoukro,2026-02-08
+1037,Clinique Dentaire Deux-Plateaux,client,rsi,PME,S01,Abidjan,2025-07-23
+1038,Agence Voyages Soleil,client,rsi,PME,S02,Abidjan,2024-04-04
+1039,Groupe Scolaire Les Lauriers,client,rsi,PME,S03,Abidjan,2024-06-09
+1040,Manufacture Textile Grand-Bassam,client,rsi,TPE,S04,Abidjan,2025-08-10
+1041,Cimenterie Atlantique,supplier,rsi,,,Abidjan,2024-09-06
+1042,Aciéries du Golfe,supplier,rsi,,,Abidjan,2024-08-09
+1043,Distri-Bureau CI,supplier,,,,Abidjan,2023-08-05
+1044,Sodiprix Alimentaire,supplier,rsi,,,Abidjan,2025-12-11
+1045,Hygiena Pro,supplier,,,,Abidjan,2024-06-14
+1046,SécuriPro Équipements,supplier,rsi,,,Abidjan,2023-12-17
+1047,Comptoir Agro Ouest,supplier,tee,,,Abidjan,2025-07-05
+1048,Import Général Treichville,supplier,,,,Abidjan,2023-10-28
+1049,Peintures Lagunaires,supplier,,,,Abidjan,2025-12-25
+1050,Papeterie Centrale,supplier,rsi,,,Abidjan,2023-09-03
+1051,Grossiste Vridi,supplier,tee,,,Abidjan,2023-06-01
+1052,Équip'Chantier,supplier,,,,Abidjan,2025-01-15

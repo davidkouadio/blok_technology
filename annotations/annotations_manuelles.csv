@@ -1,0 +1,31 @@
+request_id,client_message,attendu,commentaire
+RFQ-001,"Bjr svp il me faut 200 sacs de ciment 42,5 pour lundi",101:200,
+RFQ-002,ciment cpj 32 - 80 sacs,102:80,
+RFQ-003,Fer de 10 x 150 barres,104:150,
+RFQ-004,fer HA12 300,105:300,
+RFQ-005,"Barres de fer 8mm, une centaine",ambigu,
+RFQ-006,tôles alu 3m 6/10 : 60,106:60,
+RFQ-007,Peinture blanche à eau 10 seaux de 25kg,107:10,
+RFQ-008,2 camions de sable lagunaire,108:2,
+RFQ-009,50 rames de papier A4,109:50,
+RFQ-010,Toner 85A x4 pour imprimante HP,110:4,
+RFQ-011,Cartouche Canon 728 x 2,absent,produit pas au catalogue
+RFQ-012,Riz parfumé 25kg — 40 sacs pour la cantine,113:40,
+RFQ-013,huile 20L x 15 bidons,114:15,
+RFQ-014,Sucre 50 kg 6 sacs,115:6,
+RFQ-015,"Eau minérale petites bouteilles 50cl, 100 packs",absent,produit pas au catalogue
+RFQ-016,Packs d'eau 1.5L x 200,116:200,
+RFQ-017,Javel 5L x 30,118:30,
+RFQ-018,"Savon pour les mains en bidon, 12",121:12,
+RFQ-019,PQ 10 colis,120:10,
+RFQ-020,Casques chantier x 40 + gilets jaunes x 40,122:40 + 125:40,
+RFQ-021,Chaussures sécu pointure 42 x 15 paires,124:15,
+RFQ-022,gants cuir manutention 100 paires,123:100,
+RFQ-023,Extincteurs 6kg poudre x 5,126:5,
+RFQ-024,Extincteur CO2 2kg x 3,absent,produit pas au catalogue
+RFQ-025,Détergent multi-usage 5L x 20 et café soluble 10 boîtes,119:20 + 117:10,
+RFQ-026,Classeurs à levier dos large 30,112:30,
+RFQ-027,Stylos bleus 5 boîtes,111:5,
+RFQ-028,Ciment 50kg 100 sacs,ambigu,il manque la référence au client
+RFQ-029,"Câble électrique 2,5mm² 3 rouleaux",absent,produit pas au catalogue
+RFQ-030,Fer à béton 14 x 50,ambigu,il manque la référence au client
